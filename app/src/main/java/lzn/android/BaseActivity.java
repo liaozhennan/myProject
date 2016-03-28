@@ -16,6 +16,7 @@ public class BaseActivity extends Activity  {
             if(volleyError.getMessage() != null)
             {
                 Log.e("volleyError", volleyError.getMessage());
+                Log.e("volleyError", volleyError.getMessage());
             }
 
         }
